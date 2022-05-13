@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "1ab55d06d5572597",
+    "type": "split",
+    "children": [
+      {
+        "id": "99dcc6e37bf11e67",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "stolenModel/README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4aa97099483cfaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "db43d326c301a0da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ace8b6642abe24db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "919e6ede5f5c931c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "392847a84e11e235",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb76dac7cac17e3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10e883bbf5230616",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "stolenModel/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "99dcc6e37bf11e67",
+  "lastOpenFiles": [
+    "stolenModel/README.md"
+  ]
+}
